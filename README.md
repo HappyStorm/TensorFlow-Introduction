@@ -1,8 +1,9 @@
 ### Google TensorFlow Tutorial
 ------------------------
 This tutorial introduces some concepts of tensorflow and implements some parts of codes in this [slides](http://www.slideshare.net/tw_dsconf/tensorflow-tutorial/1) in Jupyter Notebook format.
-(Note that all the introductions for tf's concepts are my own perspectives on what I have learned and understood,
-only the codes are from (slides)[http://www.slideshare.net/tw_dsconf/tensorflow-tutorial/1]. Thus, if there exists any mistake or wrong explanation, please send PR or contact to me, Thanks & Enjoy!)
+
+(Note that all the introductions for tensorflow's concepts are my own perspectives on what I have learned and understood,
+only the codes are from [slides](http://www.slideshare.net/tw_dsconf/tensorflow-tutorial/1). Thus, if there exists any mistake or wrong explanation, please send PR or contact to me, Thanks & Hope you enjoy it!)
 
 ### Environment
 ------------------------
