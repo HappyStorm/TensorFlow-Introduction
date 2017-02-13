@@ -1,6 +1,6 @@
 ### Google TensorFlow Tutorial
 ------------------------
-This is tutorial introduces some concepts of tensorflow and implements some part of codes in this [slides](http://www.slideshare.net/tw_dsconf/tensorflow-tutorial/1) in Jupyter Notebook format.
+This tutorial introduces some concepts of tensorflow and implements some parts of codes in this [slides](http://www.slideshare.net/tw_dsconf/tensorflow-tutorial/1) in Jupyter Notebook format.
 
 ### Environment
 ------------------------
@@ -11,7 +11,7 @@ This is tutorial introduces some concepts of tensorflow and implements some part
 ### Prerequisite
 ------------------------
 * Python 3.5.2
-* TensorFlow v1.0.0 (Mac OS X, CPU only, Python 3.4 or 3.5)
+* TensorFlow [v1.0.0](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/get_started/os_setup.md) (Mac OS X, CPU only, Python 3.4 or 3.5)
 
 ### Credits
 ------------------------
