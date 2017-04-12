@@ -1,0 +1,9 @@
+# Dataset and Static files
+data/
+img/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# macOS pages
+*.pages
